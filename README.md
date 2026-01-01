@@ -105,17 +105,6 @@ const themes = {
 };
 ```
 
-## 📸 Screenshots
-
-### Main Menu
-![Main Menu](screenshots/menu.png)
-
-### Gameplay
-![Gameplay](screenshots/game.png)
-
-### Victory Screen
-![Victory](screenshots/victory.png)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
@@ -141,8 +130,7 @@ Contributions are welcome! Feel free to:
 - Designed with children's engagement in mind
 - Built with love using vanilla web technologies
 
-Project Link: [https://github.com/yourusername/mindgrid](https://github.com/yourusername/mindgrid)
-
+Project Link: https://mindgridd.netlify.app/
 
 ⭐ **Star this repo if you found it helpful!** ⭐
 
