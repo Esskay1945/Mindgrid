@@ -134,9 +134,6 @@ Contributions are welcome! Feel free to:
 - [ ] Add difficulty achievements
 - [ ] Save high scores locally
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👏 Acknowledgments
 
@@ -144,13 +141,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Designed with children's engagement in mind
 - Built with love using vanilla web technologies
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
 Project Link: [https://github.com/yourusername/mindgrid](https://github.com/yourusername/mindgrid)
 
----
 
 ⭐ **Star this repo if you found it helpful!** ⭐
 
